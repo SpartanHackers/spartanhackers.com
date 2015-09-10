@@ -1,3 +1,5 @@
 .ftpquota
 .DS_Store
 cgi-bin/
+database/config.php
+includes/config.php
