@@ -19,20 +19,26 @@ include("partials/header.php");
     </div>
 </header>
     
-<!-- About Section -->
+<!-- Events Section -->
 <section id="about" class="container content-section text-center">
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
-            <h3 class="event-title">Resume & Interview Workshop</h3>
-            <h4 class="light event-sub">
-                6:00 - 8:00PM &nbsp;//&nbsp; September 15th, 2015<br>
-                Location TBD
-            </h4>
-
             <h3 class="event-title">Bootstrap Workshop</h3>
             <h4 class="light event-sub">
                 7:00 - 9:00PM &nbsp;//&nbsp; September 22th, 2015<br>
                 147 Comm Arts Building
+            </h4>
+
+            <h3 class="event-title">Web Server Setup / Workshop</h3>
+            <h4 class="light event-sub">
+                7:00 - 9:00PM &nbsp;//&nbsp; September 29th, 2015<br>
+                1345 Engineering Building
+            </h4>
+
+            <h3 class="event-title">Local Hack Day</h3>
+            <h4 class="light event-sub">
+                9:00AM - 9:00PM &nbsp;//&nbsp; October 10th, 2015<br>
+                Location TBD
             </h4>
 
             <h3 class="event-title">Future events are TBD</h3>

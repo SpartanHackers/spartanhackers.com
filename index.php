@@ -25,9 +25,9 @@ include("partials/header.php");
         <div class="col-lg-8 col-lg-offset-2">
             <h2>What is Spartan Hackers?</h2>
             <p>Spartan Hackers exists to foster a community of technological innovation, collaboration, and creation at Michigan State University.</p>
-            <p>Check out our <a href="events.html">events page</a></p> 
-            <p>Find out more <a href="events.html">about</a> us </p> 
-            <p>Subscribe to our <a href="mailing_list.html">mailing list</a> for important updates</p>
+            <p>Check out our <a href="events.php">events page</a></p> 
+            <p>Find out more <a href="about.php">about</a> us </p> 
+            <p>Subscribe to our <a href="mailing_list.php">mailing list</a> for important updates</p>
             <p>Like us on <a target="_blank" href="https://www.facebook.com/hack.at.state">facebook</a></p>
             <p>Join our facebook group <a target="_blank" href="https://www.facebook.com/groups/529492683857277/">Hackers @ Michigan State</a></p>
             <p>Follow us on <a target="_blank" href="https://twitter.com/spartanhackers">twitter</a></p>
